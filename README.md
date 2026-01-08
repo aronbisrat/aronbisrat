@@ -51,7 +51,7 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 
 - 👉 Explore my pinned repositories below for full project details and reproducible workflows.
 
-  ---
+---
 
 ## 🛠️ Skills  
 
@@ -92,7 +92,7 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aronbisrat)
 
 ---
-##Profile Summary
+## Profile Summary
 ![Profile Views](https://komarev.com/ghpvc/?username=aronbisrat&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/aronbisrat?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/aronbisrat?style=social)
