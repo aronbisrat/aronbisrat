@@ -28,12 +28,6 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 
 ---
 
-## 📊 GitHub Stats  
-
-![Aron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aronbisrat&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aronbisrat&layout=compact&theme=radical)
-
----
 
 ### 2. ECX Proxy Analysis  
 📈 Statistical and geospatial analysis of Ethiopia Commodity Exchange (ECX) proxies.  
@@ -74,6 +68,14 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 
 ---
 
+## 📊 GitHub Stats  
+
+![Aron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aronbisrat&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aronbisrat&layout=compact&theme=radical)
+
+---
+
+
 ## 🌍 Interests  
 - Applied data science for urban planning & accessibility  
 - Climate resilience and equitable infrastructure  
@@ -89,3 +91,10 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/aronbisrat)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/aronbisrat)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aronbisrat)
+
+## Add a Call‑to‑Action
+
+- 👉 Explore my pinned repositories below for full project details and reproducible workflows.
+
+![Profile Views](https://komarev.com/ghpvc/?username=aronbisrat&color=blue)
+
