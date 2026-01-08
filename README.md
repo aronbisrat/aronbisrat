@@ -80,12 +80,12 @@ Explore my pinned repositories below for full project details and reproducible w
 
 ---
 
----
 ## 📫 Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/aronbisrat) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/aronbisrat) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aronbisrat)  
 
 ---
+
 ## Profile Summary  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aronbisrat&color=blue)  
