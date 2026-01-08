@@ -4,6 +4,13 @@
 I use Python, GIS, and machine learning to make geographic and statistical data **accessible, reproducible, and impactful**.  
 My focus: **urban accessibility, infrastructure equity, and visual storytelling**.  
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
+
 ---
 
 ## 🔹 Featured Projects  
@@ -43,10 +50,16 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 ---
 
 ## 🛠️ Skills  
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
 - **Data Science:** Python, Pandas, Scikit‑learn, SQL  
 - **Geospatial Analysis:** GIS, Rasterio, Geopandas, Choropleths  
 - **Visualization:** Matplotlib, Seaborn, Clear labeling for non‑specialist audiences  
-- **Enterprise IT:** ERP implementation, Database administration, Infrastructure management  
 
 ---
 
