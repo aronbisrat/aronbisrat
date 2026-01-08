@@ -59,7 +59,7 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 
 - **Data Science:** Python, Pandas, Scikit‑learn, SQL  
 - **Geospatial Analysis:** GIS, Rasterio, Geopandas, Choropleths  
-- **Visualization:** Matplotlib, Seaborn, Clear labeling for non‑specialist audiences  
+- **Visualization:** Matplotlib, Seaborn, Clear labeling for non‑specialist audiences   
 
 ---
 
