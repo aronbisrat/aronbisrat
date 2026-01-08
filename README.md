@@ -14,7 +14,6 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 ![Rasterio](https://img.shields.io/badge/Rasterio-FFB300?logo=python&logoColor=black)
 ![Shapely](https://img.shields.io/badge/Shapely-4682B4?logo=python&logoColor=white)
 
-
 ---
 
 ## 🔹 Featured Projects  
@@ -24,7 +23,7 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 - ✅ Resampled massive 100m raster to 1km for computational feasibility  
 - ✅ Computed zonal statistics (population totals & mean density)  
 - ✅ Produced recruiter‑friendly bar charts and choropleth maps  
-🔗 [View the project here](https://github.com/aronbisrat/ethiopia-urban-accessibility-analysis)
+🔗 [View the project here](https://github.com/aronbisrat/ethiopia-urban-accessibility-analysis)  
 
 ### 2. ECX Proxy Analysis  
 📈 Statistical and geospatial analysis of Ethiopia Commodity Exchange (ECX) proxies.  
@@ -47,9 +46,9 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 
 ---
 
-## Add a Call‑to‑Action
+## 👉 Call‑to‑Action  
 
-- 👉 Explore my pinned repositories below for full project details and reproducible workflows.
+Explore my pinned repositories below for full project details and reproducible workflows.  
 
 ---
 
@@ -63,17 +62,16 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 
 - **Data Science:** Python, Pandas, Scikit‑learn, SQL  
 - **Geospatial Analysis:** GIS, Rasterio, Geopandas, Choropleths  
-- **Visualization:** Matplotlib, Seaborn, Clear labeling for non‑specialist audiences   
+- **Visualization:** Matplotlib, Seaborn, Clear labeling for non‑specialist audiences  
 
 ---
 
 ## 📊 GitHub Stats  
 
 ![Aron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aronbisrat&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aronbisrat&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aronbisrat&layout=compact&theme=radical)  
 
 ---
-
 
 ## 🌍 Interests  
 - Applied data science for urban planning & accessibility  
@@ -83,17 +81,15 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 ---
 
 ## 📫 Connect  
-- **LinkedIn:** [linkedin.com/in/aronbisrat](https://linkedin.com/in/aronbisrat)  
-- **Kaggle:** [kaggle.com/aronbisrat](https://www.kaggle.com/aronbisrat)  
-- **GitHub Projects:** pinned below 👇
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/aronbisrat)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/aronbisrat)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aronbisrat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/aronbisrat) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/aronbisrat) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aronbisrat)  
 
 ---
-## Profile Summary
-![Profile Views](https://komarev.com/ghpvc/?username=aronbisrat&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/aronbisrat?style=social)
-![GitHub stars](https://img.shields.io/github/stars/aronbisrat?style=social)
 
+## Profile Summary  
+
+![Profile Views](https://komarev.com/ghpvc/?username=aronbisrat&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/aronbisrat?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/aronbisrat?style=social)  
