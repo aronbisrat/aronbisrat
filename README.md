@@ -48,8 +48,7 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 
 ## 👉 Call‑to‑Action  
 
-👉 [Explore my pinned repositories](https://github.com/aronbisrat?tab=repositories) below for more geospatial and data science projects.  
-
+👉 [Explore my pinned repositories](https://github.com/aronbisrat?tab=repositories) below for more geospatial and data science projects.
 ---
 
 ## 🛠️ Skills  
