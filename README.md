@@ -26,16 +26,11 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 - ✅ Produced recruiter‑friendly bar charts and choropleth maps  
 🔗 [View the project here](https://github.com/aronbisrat/ethiopia-urban-accessibility-analysis)
 
----
-
-
 ### 2. ECX Proxy Analysis  
 📈 Statistical and geospatial analysis of Ethiopia Commodity Exchange (ECX) proxies.  
 - ✅ Built reproducible workflows for market data  
 - ✅ Applied statistical modeling and visualization  
 🔗 [View the project here](https://github.com/aronbisrat/ecx-proxy-analysis)  
-
----
 
 ### 3. Ethiopia Admin2 GIS Analysis  
 🗺️ Geospatial analysis at the Admin2 (Woreda) level.  
@@ -44,8 +39,6 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 - ✅ Produced recruiter‑friendly maps with clear labeling  
 🔗 [View the project here](https://github.com/aronbisrat/ethiopia-admin2-gis-analysis)  
 
----
-
 ### 4. Concrete Dataset Portfolio‑Ready Project Plan  
 🏗️ Data science project plan using a concrete dataset.  
 - ✅ Designed a reproducible workflow for machine learning analysis  
@@ -53,6 +46,12 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 🔗 [View the project here](https://github.com/aronbisrat/Concrete-Dataset-Portfolio-Ready-Project-Plan)  
 
 ---
+
+## Add a Call‑to‑Action
+
+- 👉 Explore my pinned repositories below for full project details and reproducible workflows.
+
+  ---
 
 ## 🛠️ Skills  
 
@@ -92,9 +91,9 @@ My focus: **urban accessibility, infrastructure equity, and visual storytelling*
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/aronbisrat)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aronbisrat)
 
-## Add a Call‑to‑Action
-
-- 👉 Explore my pinned repositories below for full project details and reproducible workflows.
-
+---
+##Profile Summary
 ![Profile Views](https://komarev.com/ghpvc/?username=aronbisrat&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/aronbisrat?style=social)
+![GitHub stars](https://img.shields.io/github/stars/aronbisrat?style=social)
 
